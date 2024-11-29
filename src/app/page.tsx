@@ -15,7 +15,7 @@ export default function Home() {
           <li className="font-bold mb-2">1. Responsive Menu Bar:</li>
           <p>Create a responsive menu bar for your application.</p>
           <p>The menu should display as a regular horizontal navigation bar on large devices (e.g., desktops).</p>
-          <p>On smaller devices (e.g., mobile phones), the menu should transform into a "burger menu" that users can click to expand.</p>
+          <p>On smaller devices (e.g., mobile phones), the menu should transform into a burger menu that users can click to expand.</p>
           <br />
           <li className="font-bold mb-2">2. Medium Devices Layout Extension:</li>
           <p>Extend the provided code, which is already responsive for small and large devices.</p>
